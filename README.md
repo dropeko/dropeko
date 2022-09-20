@@ -20,6 +20,12 @@ Here are some ideas to get you started:
  - _Administrador da rede social [@so.marcha](https://www.instagram.com/so.marcha/?hl=pt-br) no Instagram_
  - _"Você pode encontrar as coisas que perdeu, mas nunca as que abandonou."_
 
+ ## Contato:
+ ### - [Linkedin](https://linkedin.com/in/pedro-henrique-coli-andrade-188210242)
+ ### - [Github](https://https://github.com/dropeko)
+ ### - [Instagram](https://instagram.com/so.marcha/)
+ ### - [Email](mailto:pedrocoli_andrade@hotmail.com)
+
 ## Linguagens: 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![shell-script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
