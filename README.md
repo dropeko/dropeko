@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there, I'm Pedro Andrade 👋
-## This is my Github profile. Here you can follow my progress within the world of fullstack web development as a student at [Trybe](https://betrybe.com.br) :rocket:
+## This is my Github profile. Here you can follow my progress within the world of fullstack web development as a student at [Trybe](https://betrybe.com) :rocket:
  
  - _Estudante de Desenvolvimento Web_
  - _Oriundo do mercado de Infraestrutura de TI_
