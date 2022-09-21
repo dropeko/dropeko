@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Hi there, I'm Pedro Andrade 👋
 ## This is my Github profile. Here you can follow my progress within the world of fullstack web development as a student at [Trybe](https://betrybe.com) 🏆
  
- - _Full Stack Web Development Student_
+ - _Full Stack Web Development in formation_
  - _Admin at [@so.marcha](https://www.instagram.com/so.marcha/?hl=pt-br) on Instagram_
  - _"Você pode encontrar as coisas que perdeu, mas nunca as que abandonou."_
 
