@@ -20,11 +20,13 @@ Here are some ideas to get you started:
  - _Administrador da rede social [@so.marcha](https://www.instagram.com/so.marcha/?hl=pt-br) no Instagram_
  - _"Você pode encontrar as coisas que perdeu, mas nunca as que abandonou."_
 
- ## Contato:
-- [Linkedin](https://linkedin.com/in/pedro-henrique-coli-andrade-188210242)
-- [Github](https://https://github.com/dropeko)
-- [Instagram](https://instagram.com/so.marcha/)
-- [Email](mailto:pedrocoli_andrade@hotmail.com)
+
+## GitHub Stats
+<div align="center">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=dropeko&count_private=true&show_icons=true&theme=outrun&include_all_commits=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dropeko&theme=outrun&layout=compact"/>
+</div>
+
 
 ## Linguagens:
 <div align='center'> 
@@ -47,10 +49,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
 </div>
 
-## GitHub Stats
-<div align="center">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=dropeko&count_private=true&show_icons=true&theme=outrun&include_all_commits=false"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dropeko&theme=outrun&layout=compact"/>
-</div>
+<br>
 
-## Fun facts
+ ## Contato:
+- [Linkedin](https://linkedin.com/in/pedro-henrique-coli-andrade-188210242)
+- [Github](https://https://github.com/dropeko)
+- [Instagram](https://instagram.com/so.marcha/)
+- [Email](mailto:pedrocoli_andrade@hotmail.com)
+
