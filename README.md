@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 # Hi there, I'm Pedro Andrade 👋
 ## This is my Github profile. Here you can follow my progress within the world of fullstack web development as a student at [Trybe](https://betrybe.com) 🏆
  
- - _Estudante de Desenvolvimento Web_
- - _Oriundo do mercado de Infraestrutura de TI_
- - _Administrador da rede social [@so.marcha](https://www.instagram.com/so.marcha/?hl=pt-br) no Instagram_
+ - _Full Stack Web Development in formation_
+ - _Admin at [@so.marcha](https://www.instagram.com/so.marcha/?hl=pt-br) on Instagram_
  - _"Você pode encontrar as coisas que perdeu, mas nunca as que abandonou."_
 
 
@@ -28,12 +27,12 @@ Here are some ideas to get you started:
 </div>
 
 
-## Linguagens:
+## Languages:
 <div align='center'> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </div>
 
 ## Workflow:
@@ -49,11 +48,12 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
 </div>
 
-<br>
+
 
  ## Contato:
 - [Linkedin](https://linkedin.com/in/pedro-henrique-coli-andrade-188210242)
 - [Github](https://https://github.com/dropeko)
 - [Instagram](https://instagram.com/so.marcha/)
 - [Email](mailto:pedrocoli_andrade@hotmail.com)
+
 
