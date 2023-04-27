@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - _Admin at [@so.marcha](https://www.instagram.com/so.marcha/?hl=pt-br) on Instagram_
 - _"You can find the things you lost, but never the ones you abandoned."_
 
-_
 
 ## GitHub Stats
 
@@ -75,7 +74,7 @@ _
     <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
 </div>
 
-## Contato:
+## Get in touch:
 
 - [Linkedin](https://linkedin.com/in/pedro-henrique-coli-andrade-188210242)
 - [Github](https://https://github.com/dropeko)
