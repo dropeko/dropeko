@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## This is my Github profile. Here you can follow my progress within the world of fullstack web development. I'm former student at [Trybe](https://betrybe.com) 🏆
 
-- _Full Stack Web Development Jr_ 🚀
+- _Full Stack Web Development Jr_ 
 - _Admin at [@so.marcha](https://www.instagram.com/so.marcha/?hl=pt-br) on Instagram_
 - _"You can find the things you lost, but never the ones you abandoned."_
 
