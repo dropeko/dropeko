@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Pedro Andrade 👋
 
-## This is my Github profile. Here you can follow my progress within the world of fullstack web development. I'm former student at [Trybe](https://betrybe.com) and Software Engineer at [Sillion](http://sillion.com.br/static/) 🏆
+## Former student at [Trybe](https://betrybe.com) 
+## and Software Engineer at [Sillion](http://sillion.com.br/static/) 🏆
 
 - _Full Stack Software Engineer_ 
 - _Admin at [@so.marcha](https://www.instagram.com/so.marcha/?hl=pt-br) on Instagram_
