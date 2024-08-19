@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Software Engineer at [Sillion](http://sillion.com.br/static/) and Former student at [Trybe](https://betrybe.com) 🏆
 
-- _Full Stack Software Engineer_ 
+- _Full Stack Software Engineer_ 🚀
 - _Admin at [@so.marcha](https://www.instagram.com/so.marcha/?hl=pt-br) on Instagram_
 - _"You can find the things you lost, but never the ones you abandoned."_
 
