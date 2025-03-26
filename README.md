@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Pedro Andrade 👋
 
-## Software Engineer and Former student at [Trybe](https://betrybe.com) 🏆
-
 - _Full Stack Software Engineer_ 🚀
 - _"You can find the things you lost, but never the ones you abandoned."_
 
