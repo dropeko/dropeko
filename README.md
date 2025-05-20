@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## GitHub Stats
 
 <div align="center">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=dropeko&count_private=true&show_icons=true&theme=outrun&include_all_commits=false"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=dropeko&count_private=true&show_icons=true&theme=outrun&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dropeko&theme=outrun&layout=compact"/>
 </div>
 
